@@ -2,5 +2,8 @@
     background: none;text-align: center;
 }
 .image-slide{
- max-width:100px;height: 100px;
+ max-width:200px;height: 200px;margin: auto;
+}
+.span-color{
+    color: black;background-color: red;
 }
