@@ -1,0 +1,28 @@
+.body-signin{
+    background-color: lightblue;
+}
+.container-signin{
+     margin-top:4%;
+}
+.card-signin{
+    padding: 40px 0px 20px;
+    background-color: lightgrey;
+    box-shadow:2px 2px 5px rgba(0,0,0,.5);
+    width: 450px;;
+}
+.img-signin{
+    margin: auto;
+    padding:0 2rem 2rem;display:block;
+}
+.form-signin{
+    width: 350px;
+    margin: auto;
+}
+.btn-signin{
+    width: 100%;margin-top: 1.5rem;
+    color:red;
+    background-color: black;
+}
+.date-signin{
+    margin: auto;display: flex;
+}
